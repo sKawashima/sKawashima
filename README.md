@@ -1,16 +1,16 @@
-### Hi there 👋
+### I'm shiba(@sKawashima) 👋
 
-<!--
-**sKawashima/sKawashima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Designer
+- Engineer
+- Artist
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/twitter/follow/_sKawashima?label=Twitter&logo=twitter&style=flat)](http://twitter.com/_sKawashima)
+[![](https://img.shields.io/github/followers/sKawashima?label=follow&logo=github&style=flat)](https://github.com/sKawashima)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/sKawashima/posts.svg)](http://qiita.com/sKawashima)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/sKawashima/contributions.svg)](http://qiita.com/sKawashima)
+[![](https://img.shields.io/badge/blog-sKawashima.com/blog-blueviolet)](https://skawashima.com/blog)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sKawashima&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKawashima&count_private=true&theme=jolly&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sKawashima&theme=dracula&no-frame=true&margin-w=8&margin-h=6&column=8)](https://github.com/ryo-ma/github-profile-trophy)
