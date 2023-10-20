@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/blog-sKawashima.com/blog-blueviolet)](https://skawashima.com/blog)
 [![](https://img.shields.io/badge/Working%20at-Da%20Vinci%20Studio-blueviolet)](https://da-vinci-studio.com/)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sKawashima&theme=jolly)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sKawashima&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sKawashima&count_private=true&theme=jolly&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
