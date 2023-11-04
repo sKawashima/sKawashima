@@ -8,7 +8,7 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/sKawashima/posts.svg)](http://qiita.com/sKawashima)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/sKawashima/contributions.svg)](http://qiita.com/sKawashima)
 [![](https://img.shields.io/badge/blog-sKawashima.com/blog-blueviolet)](https://skawashima.com/blog)
-[![](https://img.shields.io/badge/Working%20at-Da%20Vinci%20Studio-blueviolet)](https://da-vinci-studio.com/)
+[![](https://img.shields.io/badge/Working%20at-Kufu%20AI%20Studio-00c28e)](https://kufu.ai/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sKawashima&theme=jolly)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sKawashima&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
