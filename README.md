@@ -3,7 +3,6 @@
 - Frontend Technologist (Designer x Engineer)
 - Artist
 
-[![](https://img.shields.io/twitter/follow/_sKawashima?label=Twitter&logo=twitter&style=flat)](http://twitter.com/_sKawashima)
 [![](https://img.shields.io/github/followers/sKawashima?label=follow&logo=github&style=flat)](https://github.com/sKawashima)
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/sKawashima/posts.svg)](http://qiita.com/sKawashima)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/sKawashima/contributions.svg)](http://qiita.com/sKawashima)
